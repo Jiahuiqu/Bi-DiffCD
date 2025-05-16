@@ -8,6 +8,17 @@ The implementation of the paper "Bidirectional Diffusion Guided Collaborative Ch
 
 ## Usage
 
-The network.py include main model structure.
+Bi-DiffCD is divided into two stages: modal transformation and change detection.
 
-Please run PSRF-DiffNet_train.py for training and run PSRF-DiffNet_test for testing.
+Stages1: Modal Transformation
+
+	train：--run 'train_stage1.py'
+
+	test：--run 'test_stage1.py'
+
+Stages2: Change Detection
+
+	train：--run 'train_stage2.py'
+
+	test：--run 'test_stage2.py'
+
