@@ -10,17 +10,17 @@ The implementation of the paper "Bidirectional Diffusion Guided Collaborative Ch
 
 Bi-DiffCD is divided into two stages: modal transformation and change detection.
 
-Stages1: Modal Transformation
+	Stages1: Modal Transformation
+	
+		train：--run 'train_stage1.py'
+	
+		test：--run 'test_stage1.py'
 
-	train：--run 'train_stage1.py'
-
-	test：--run 'test_stage1.py'
-
-Stages2: Change Detection
-
-	train：--run 'train_stage2.py'
-
-	test：--run 'test_stage2.py'
+	Stages2: Change Detection
+	
+		train：--run 'train_stage2.py'
+	
+		test：--run 'test_stage2.py'
  
 ## Cite
 If you find this code helpful, please kindly cite:
