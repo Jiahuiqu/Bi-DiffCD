@@ -21,4 +21,6 @@ Stages2: Change Detection
 	train：--run 'train_stage2.py'
 
 	test：--run 'test_stage2.py'
-
+ 
+## Cite
+If you find this code helpful, please kindly cite:
