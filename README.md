@@ -1,5 +1,5 @@
 ## Bi-DiffCD
-The implementation of the paper "Bidirectional Diffusion Guided Collaborative Change Detection for Arbitrary-Modal Remote Sensing Images"
+The implementation of the paper "Bidirectional Diffusion Guided Collaborative Change Detection for Arbitrary-Modal Remote Sensing Images" (IJCAI 2025)
 
 ## Prerequisites
 
